@@ -18,14 +18,14 @@ Currently learning:
 
 ## Projects
 
-### MikroTik Interface Monitor
+### <a href="https://github.com/berlandprastyo/mikrotik-interface-monitor"> MikroTik Interface Monitor </a>
 RouterOS script for monitoring interface status and sending
 notifications when the status changes.
 
-### MikroTik Dual-WAN Failover
+### <a href="https://github.com/berlandprastyo/mikrotik-failover-script"> MikroTik Dual-WAN Failover </a>
 Recursive routing setup for automatic dual-WAN failover.
 
-### MikroTik Auto Backup
+### <a href="https://github.com/berlandprastyo/mikrotik-script-auto-backup"> MikroTik Auto Backup </a>
 RouterOS script for automatically creating scheduled backups.
 
 ## Technologies
@@ -34,4 +34,4 @@ MikroTik | RouterOS | Linux | Git | Bash | VMware | GNS3
 
 ## Contact
 
-GitHub: @berlandprastyo
+GitHub: <a href="https://github.com/berlandprastyo"> @berlandprastyo </a>
