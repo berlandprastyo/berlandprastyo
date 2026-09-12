@@ -1,6 +1,6 @@
 # Hi, I'm Berland Prastiyo Wiranatha
 
-Network Engineering student interested in networking, Linux,
+Interested in networking, Linux,
 and network automation.
 
 ## About Me
