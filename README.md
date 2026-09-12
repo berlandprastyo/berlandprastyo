@@ -1,4 +1,4 @@
-# Hi, I'm Berland Prastyo
+# Hi, I'm Berland Prastiyo Wiranatha
 
 Network Engineering student interested in networking, Linux,
 and network automation.
