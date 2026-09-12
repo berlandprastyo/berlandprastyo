@@ -5,7 +5,7 @@ and network automation.
 
 ## About Me
 
-I'm currently studying Informatics Engineering Education.
+I'm currently studying Informatics and Computer Engineering Education.
 My main interest is network engineering, especially MikroTik, Linux, and network automation.
 
 Currently learning:
