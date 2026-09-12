@@ -34,3 +34,5 @@ MikroTik | RouterOS | Linux | Git | Bash | VMware | GNS3
 ## Contact
 
 GitHub: <a href="https://github.com/berlandprastyo"> @berlandprastyo </a>
+
+<img src="https://raw.githubusercontent.com/7zenArd/7zenArd/output/snake.svg" alt="Snake animation" />
