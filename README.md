@@ -9,10 +9,10 @@ I'm currently studying Informatics and Computer Engineering Education.
 My main interest is network engineering, especially MikroTik, Linux, and network automation.
 
 Currently learning:
-- Cisco networking
-- MikroTik
-- Linux server administration
-- Network monitoring
+- Cisco networking,
+- MikroTik.
+- Linux server administration,
+- Network monitoring,
 - Network automation
 
 ## Projects
@@ -24,12 +24,12 @@ notifications when the status changes.
 ### <a href="https://github.com/berlandprastyo/mikrotik-failover-script"> MikroTik Dual-WAN Failover </a>
 Recursive routing setup for automatic dual-WAN failover.
 
-### <a href="https://github.com/berlandprastyo/mikrotik-script-auto-backup"> MikroTik Auto Backup </a>
-RouterOS script for automatically creating scheduled backups.
+### <a href="https://github.com/berlandprastyo/mikrotik-telegram-management"> MikroTik Telegram Management </a>
+Telegram-based MikroTik management and monitoring.
 
 ## Technologies
 
-MikroTik | RouterOS | Linux | Git | Bash | VMware | GNS3
+ RouterOS | Linux | Git | VMware | GNS3 | Cisco
 
 ## Contact
 
