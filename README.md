@@ -30,9 +30,5 @@ Telegram-based MikroTik management and monitoring.
 ## Technologies
 
  RouterOS | Linux | Git | VMware | GNS3 | Cisco
-
-## Contact
-
-Gmail: <a href="mailto:berlandprstyo69@gmail.com">berlandprastyo69@gmail.com</a>
-Instagram : <a href="https://www.instagram.com/berlandprastyo._?stkn=N3IyN2E2d242aXZv">@berlandprastyo._</a>
+ 
 <img src="https://raw.githubusercontent.com/7zenArd/7zenArd/output/snake.svg" alt="Snake animation" />
